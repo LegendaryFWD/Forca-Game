@@ -1,0 +1,32 @@
+C:\Users\deusd\OneDrive\Área de Trabalho\what\bin\Debug\net5.0\what.exe
+C:\Users\deusd\OneDrive\Área de Trabalho\what\bin\Debug\net5.0\what.deps.json
+C:\Users\deusd\OneDrive\Área de Trabalho\what\bin\Debug\net5.0\what.runtimeconfig.json
+C:\Users\deusd\OneDrive\Área de Trabalho\what\bin\Debug\net5.0\what.runtimeconfig.dev.json
+C:\Users\deusd\OneDrive\Área de Trabalho\what\bin\Debug\net5.0\what.dll
+C:\Users\deusd\OneDrive\Área de Trabalho\what\bin\Debug\net5.0\ref\what.dll
+C:\Users\deusd\OneDrive\Área de Trabalho\what\bin\Debug\net5.0\what.pdb
+C:\Users\deusd\OneDrive\Área de Trabalho\what\obj\Debug\net5.0\what.csprojAssemblyReference.cache
+C:\Users\deusd\OneDrive\Área de Trabalho\what\obj\Debug\net5.0\what.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deusd\OneDrive\Área de Trabalho\what\obj\Debug\net5.0\what.AssemblyInfoInputs.cache
+C:\Users\deusd\OneDrive\Área de Trabalho\what\obj\Debug\net5.0\what.AssemblyInfo.cs
+C:\Users\deusd\OneDrive\Área de Trabalho\what\obj\Debug\net5.0\what.csproj.CoreCompileInputs.cache
+C:\Users\deusd\OneDrive\Área de Trabalho\what\obj\Debug\net5.0\what.dll
+C:\Users\deusd\OneDrive\Área de Trabalho\what\obj\Debug\net5.0\ref\what.dll
+C:\Users\deusd\OneDrive\Área de Trabalho\what\obj\Debug\net5.0\what.pdb
+C:\Users\deusd\OneDrive\Área de Trabalho\what\obj\Debug\net5.0\what.genruntimeconfig.cache
+C:\Users\deusd\Onedrive\Documentos\what\bin\Debug\net5.0\what.exe
+C:\Users\deusd\Onedrive\Documentos\what\bin\Debug\net5.0\what.deps.json
+C:\Users\deusd\Onedrive\Documentos\what\bin\Debug\net5.0\what.runtimeconfig.json
+C:\Users\deusd\Onedrive\Documentos\what\bin\Debug\net5.0\what.runtimeconfig.dev.json
+C:\Users\deusd\Onedrive\Documentos\what\bin\Debug\net5.0\what.dll
+C:\Users\deusd\Onedrive\Documentos\what\bin\Debug\net5.0\ref\what.dll
+C:\Users\deusd\Onedrive\Documentos\what\bin\Debug\net5.0\what.pdb
+C:\Users\deusd\Onedrive\Documentos\what\obj\Debug\net5.0\what.csprojAssemblyReference.cache
+C:\Users\deusd\Onedrive\Documentos\what\obj\Debug\net5.0\what.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deusd\Onedrive\Documentos\what\obj\Debug\net5.0\what.AssemblyInfoInputs.cache
+C:\Users\deusd\Onedrive\Documentos\what\obj\Debug\net5.0\what.AssemblyInfo.cs
+C:\Users\deusd\Onedrive\Documentos\what\obj\Debug\net5.0\what.csproj.CoreCompileInputs.cache
+C:\Users\deusd\Onedrive\Documentos\what\obj\Debug\net5.0\what.dll
+C:\Users\deusd\Onedrive\Documentos\what\obj\Debug\net5.0\ref\what.dll
+C:\Users\deusd\Onedrive\Documentos\what\obj\Debug\net5.0\what.pdb
+C:\Users\deusd\Onedrive\Documentos\what\obj\Debug\net5.0\what.genruntimeconfig.cache

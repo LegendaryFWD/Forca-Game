@@ -1,0 +1,5 @@
+C:\Users\deusd\Onedrive\documentos\what\bin\Debug\net5.0\publish\what.exe
+C:\Users\deusd\Onedrive\documentos\what\bin\Debug\net5.0\publish\what.dll
+C:\Users\deusd\Onedrive\documentos\what\bin\Debug\net5.0\publish\what.deps.json
+C:\Users\deusd\Onedrive\documentos\what\bin\Debug\net5.0\publish\what.runtimeconfig.json
+C:\Users\deusd\Onedrive\documentos\what\bin\Debug\net5.0\publish\what.pdb
